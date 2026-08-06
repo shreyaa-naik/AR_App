@@ -140,7 +140,7 @@ AR_App/
 
 The application starts with the **Divine AR** landing page, providing an attractive entry screen before navigating to the main application.
 
-![Landing Page](Screenshots/landing-page.png)
+![Landing Page](Screenshots/landing-page.jpeg)
 
 ---
 
@@ -148,7 +148,7 @@ The application starts with the **Divine AR** landing page, providing an attract
 
 The home page allows users to select different monuments available in the application for Augmented Reality visualization.
 
-![Home Page](Screenshots/home-page.png)
+![Home Page](Screenshots/home-page.jpg)
 
 ---
 
@@ -156,7 +156,7 @@ The home page allows users to select different monuments available in the applic
 
 The selected monument is displayed as an interactive 3D model in Augmented Reality. Users can rotate, zoom, move the model, switch between day and night mode, control background music, and reset the view.
 
-![AR View](Screenshots/ar-view.png)
+![AR View](Screenshots/ar-view.jpg)
 
 ---
 
