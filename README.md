@@ -129,10 +129,6 @@ AR_App/
 │   ├── ar-view.png
 │   └── unity-scene.png
 │
-├── Documentation/
-│   ├── architecture.png
-│   └── workflow.png
-│
 └── README.md
 ```
 
