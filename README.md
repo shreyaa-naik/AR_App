@@ -45,7 +45,7 @@ This project aims to promote cultural heritage, improve accessibility to histori
 | Agisoft Metashape | Photogrammetry and 3D Model Generation |
 | MeshLab | Mesh Optimization |
 | Unity 2022.3 LTS | AR Application Development |
-| Vuforia Engine 11.4.4 | Marker-Based Augmented Reality |
+| Vuforia Engine 11.4.4 | Cross-device AR support and compatibility for Android devices |
 | C# | Unity Scripting |
 
 ---
@@ -79,7 +79,7 @@ Unity 2022.3 LTS
           │
           ▼
 Vuforia Engine
-(Image Target Recognition)
+(Enhanced AR compatibility for Android devices)
           │
           ▼
 Android AR Application
@@ -107,7 +107,7 @@ Model Optimization
 Unity Integration
         │
         ▼
-Vuforia Image Target Detection
+Vuforia Engine 
         │
         ▼
 Augmented Reality Visualization
