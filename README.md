@@ -136,21 +136,27 @@ AR_App/
 
 # 📸 Screenshots
 
-## Home Screen
+## 1. Landing Page
 
-![Home Screen](Screenshots/home.png)
+The application starts with the **Divine AR** landing page, providing an attractive entry screen before navigating to the main application.
 
-## 3D Monument Model
+![Landing Page](Screenshots/landing-page.png)
 
-![3D Model](Screenshots/model.png)
+---
 
-## AR Visualization
+## 2. Home Page
+
+The home page allows users to select different monuments available in the application for Augmented Reality visualization.
+
+![Home Page](Screenshots/home-page.png)
+
+---
+
+## 3. Augmented Reality View
+
+The selected monument is displayed as an interactive 3D model in Augmented Reality. Users can rotate, zoom, move the model, switch between day and night mode, control background music, and reset the view.
 
 ![AR View](Screenshots/ar-view.png)
-
-## Unity Scene
-
-![Unity Scene](Screenshots/unity-scene.png)
 
 ---
 
